@@ -26,7 +26,6 @@ github:
     - federated-query
     - lakehouse
     - model-catalog
-    - metalake
     - skycomputing
     - ai-catalog
     - opendatacatalog
