@@ -20,7 +20,6 @@
 MARKETING_VERSION = 4.6.4
 
 // Codesigning settings defined optionally, see Documentation/iOSDevelopment.md
-#include? "CodeSigning.xcconfig"
 
 // Entitlements based off of CodeSigning settings
 IOS_CODE_SIGN_ENTITLEMENTS_YES = Platform/iOS/iOS.entitlements
