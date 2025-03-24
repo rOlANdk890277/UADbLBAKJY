@@ -1,6 +1,5 @@
 releaseBranchPrefix: releases
 changelog: CHANGES
-changelogPolicy: auto
 statusProvider:
   name: github
   config:
