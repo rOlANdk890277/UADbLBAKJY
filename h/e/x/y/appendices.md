@@ -185,7 +185,6 @@
 * <a id="dynamic-language">**dynamic language**</a> *n.* 动态语言，一种在程序执行前仅需进行少量分析（或不进行分析）的编程语言。动态语言中，多数强制性的错误检查在程序执行时发生，并且其典型程序也可能在执行时被构建和修改。参见 *static language*。
 * <a id="dynamically-typed">**dynamically typed**</a> *adj.* 动态类型，表示一类编程语言，其中与数据类型安全相关的约束检查，主要在程序运行时实行。
 * <a id="es-discuss">**`es-discuss`**</a> *n.* 用于讨论 ECMAScript 演化的公开邮件论坛。
-* <a id="ECMA-262">**ECMA-262**</a> *n.* ECMAScript 的语言规范。
 * <a id="ECMA-402">**ECMA-402**</a> *n.* ECMAScript 的国际化 API 规范。
 * <a id="engine">**engine**</a> *n.* 引擎，指代某种用于执行程序的结构。
 * <a id="es4-discuss">**`es4-discuss`**</a> *n.* `es-discuss` 邮件论坛的初始名称。
