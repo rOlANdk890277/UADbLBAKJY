@@ -63,7 +63,6 @@ RUN python -m pip install -r requirements_examples_discriminative_ai.txt
 # Copy the rest of the lit_nlp package
 COPY . ./
 
-# Build front-end with yarn
 WORKDIR $APP_HOME/lit_nlp/client
 ENV NODE_OPTIONS="--openssl-legacy-provider"
 RUN yarn && yarn build && rm -rf node_modules/*
