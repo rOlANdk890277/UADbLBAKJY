@@ -3,7 +3,6 @@
 这是一个简单、优雅、学术风格的 [typst](https://typst.app/) 个人简历（CV）模板。支持中英文（以及更多）。
 
 你可以在 [这里](https://typst.app/project/rbxGsQC-tEkDq0mnNIuxkv) 查看在线演示。
-
 ## 示例
 
 ![cv_1](./assets/cv_1.webp)
